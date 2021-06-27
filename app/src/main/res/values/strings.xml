@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blog</string>
+
+    // Fragment post detail
+    <string name="comments">Comments</string>
+    <string name="type_a_commentary">Type a comment</string>
+    <string name="send">Send</string>
+
+</resources>
